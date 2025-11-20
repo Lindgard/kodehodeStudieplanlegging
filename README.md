@@ -74,6 +74,21 @@ men finner lite info om faktiske roller der utover at de har et Incident
 Response Team og pen-testing. Skytjenester, sikkerhetsfokusert rolle der
 kanskje?
 
+## PLAN FOR SIDEPROSJEKT UTOVER PENSUM
+
+Bygge et web API i C# og ASP .NET Core, enkel frontend i ReactJS med Vite som
+linker til API jeg skal bygge.
+
+Finne ut hva jeg skal ha at APIet faktisk henter av informasjon som frontend kan
+vise frem.
+
+### Tech Stack
+
+- ASP .NET Core
+- C# backend
+- ReactJS frontend
+- Vite
+
 ## MERKNADER FRA VEILEDERE
 
 ### Mål fram til neste samtale:
