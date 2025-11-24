@@ -30,7 +30,10 @@
   - OSCP?
   - OSEC?
   - GIAC Pen Tester
-    (GPEN) -<https://www.giac.org/certifications/penetration-tester-gpen>
+    - (GPEN) -<https://www.giac.org/certifications/penetration-tester-gpen>
+  - Azure og Microsoft certs
+    - (Entrylevel
+      certs)<https://learn.microsoft.com/en-us/credentials/browse/?subjects=security&levels=beginner>
 
 ### MULIGE JOBBEKSEMPLER PÅ FINN
 
