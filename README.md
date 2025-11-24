@@ -94,12 +94,12 @@ vise frem.
 
 ## MERKNADER FRA VEILEDERE
 
-### Mål fram til neste samtale:
+### Mål fram til neste samtale
 
 - Få ned en liten refleksjon over hvorfor du gjør/starter et prosjekt.
 - Legge til en dumping grunn for ideer.
 
-## Hvordan oppnå målet:
+## Hvordan oppnå målet
 
 - Før hvert prosjekt starter en med en liten notis for: -Hvorfor du gjør dette
   - Hva du ønsker å oppnå.
