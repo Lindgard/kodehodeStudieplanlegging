@@ -18,6 +18,8 @@
 
 - Advansia <https://www.advansia.no/tjenester/cybersikkerhet>
 
+- Bouvet <https://www.bouvet.no/vi-jobber-med/kompetansekategorier/sikkerhet>
+
 ### STILLINGER
 
 - Sterkest ønske om AppSec eller pentesting-vinkling.
@@ -87,6 +89,9 @@ Upheads og Advansia er begge firma med solid fokus på cybersec, fremstår som
 store avdelinger med dedikerte stillinger for både AppSec, pentest, secure
 software engineer og analyse av data. Advansia viser et veldig fokus mot
 operativ sikkerhet i samkjøring med IT-siden.
+
+Link til artikkel på hjemmesiden til Bouvet om etisk hacking og sikkerhet:
+<https://www.bouvet.no/bouvet-deler/var-etiske-hacker-krister>
 
 ## PLAN FOR SIDEPROSJEKT UTOVER PENSUM
 
