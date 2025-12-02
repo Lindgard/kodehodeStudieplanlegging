@@ -66,7 +66,7 @@
 
 ## KURSFOKUS
 
-- [ ] Få kontroll over utfordringene mine mtp impostor syndrome
+- [x] Få kontroll over utfordringene mine mtp impostor syndrome
 - [ ] Bedre forståelse av hvor jeg tenker feil eller misforstår teori
 - [x] Huske teori rundt arbeidsmetodikk som Agile, etc
 
@@ -82,6 +82,11 @@ Atea har ifølge nettsiden det som fremstår som en spennende cyberSec avdeling,
 men finner lite info om faktiske roller der utover at de har et Incident
 Response Team og pen-testing. Skytjenester, sikkerhetsfokusert rolle der
 kanskje?
+
+Upheads og Advansia er begge firma med solid fokus på cybersec, fremstår som
+store avdelinger med dedikerte stillinger for både AppSec, pentest, secure
+software engineer og analyse av data. Advansia viser et veldig fokus mot
+operativ sikkerhet i samkjøring med IT-siden.
 
 ## PLAN FOR SIDEPROSJEKT UTOVER PENSUM
 
