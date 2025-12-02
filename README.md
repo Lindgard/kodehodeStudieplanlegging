@@ -8,13 +8,19 @@
 - [x] Notere tips utfra stillingsbeskrivelser
 - [ ] Legge en slagplan mtp faginnhold å fokusere på som entrylevel
 
-### FIRMA
+### INTERESSANTE FIRMA
 
 - Webmed EPJ AS org. 921 572 166
 
 - Atea org. 976 239 997
 
+- Upheads <https://upheads.no/>
+
+- Advansia <https://www.advansia.no/tjenester/cybersikkerhet>
+
 ### STILLINGER
+
+- Sterkest ønske om AppSec eller pentesting-vinkling.
 
 -Fullstack
 
@@ -62,7 +68,7 @@
 
 - [ ] Få kontroll over utfordringene mine mtp impostor syndrome
 - [ ] Bedre forståelse av hvor jeg tenker feil eller misforstår teori
-- [ ] Huske teori rundt arbeidsmetodikk som Agile, etc
+- [x] Huske teori rundt arbeidsmetodikk som Agile, etc
 
 ## NOTATER
 
