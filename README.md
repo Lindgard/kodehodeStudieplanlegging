@@ -7,6 +7,7 @@
       hva som er aktuelt
 - [x] Notere tips utfra stillingsbeskrivelser
 - [ ] Legge en slagplan mtp faginnhold å fokusere på som entrylevel
+- [ ] Utforske Python og scripting via tryhackme for eksempel
 
 ### INTERESSANTE FIRMA
 
