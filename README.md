@@ -14,7 +14,7 @@
 
 - Atea org. 976 239 997
 
-- Upheads <https://upheads.no/>
+- Upheads <https://upheads.no/it-sikkerhet/>
 
 - Advansia <https://www.advansia.no/tjenester/cybersikkerhet>
 
